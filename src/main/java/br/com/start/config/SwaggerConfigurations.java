@@ -1,4 +1,4 @@
-package br.com.start.confi;
+package br.com.start.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
